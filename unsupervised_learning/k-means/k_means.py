@@ -38,7 +38,7 @@ class K_means:
                 # Move centroid step: Compute means based on centroid
                 # assignments
                 new_centeroids = []
-                for i in range(k):
+                for i in range(self.k):
                     a = np.array([X[j] for j in range(m) if idx[j] == i])
                     new_centeroids.append(np.sum(a,axis=0)/len(a))
                 self.centroids = new_centeroids
