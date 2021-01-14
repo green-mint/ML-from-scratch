@@ -1,5 +1,8 @@
 # ML-from-scratch
-Popular Machine Learning Algorithms from Scratch using Python, Numpy
+Popular Machine Learning Algorithms from Scratch using Python, Numpy.  
+  
+  
+**NOTE:** This repository is only meant for understanding of under the hood working of machine learning algorithms. They are not optimized enough compared to sklearn or keras algorithms. Evaluations and comparisons with sklearn and keras will be provided.
 
 ## List of Alogrithms Implemented:  
 
@@ -20,6 +23,9 @@ An unsupervised learning algorithm that groups related data based on the number 
 
 * Convolution Neural Network:  
     TODO
+    
+## Evaluation:
+TODO
 
 
 ## Directory Structure:
